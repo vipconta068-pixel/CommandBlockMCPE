@@ -1,0 +1,11 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:block": {
+    "description": {
+      "identifier": "cbf:command_block"
+    },
+    "components": {
+      "minecraft:display_name": {"value": "Command Block"}
+    }
+  }
+}
