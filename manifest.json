@@ -13,13 +13,6 @@
       "type": "behavior",
       "uuid": "f1e2d3c4-b5a6-47a8-b9c0-d1e2f3a4b5c7",
       "version": [1, 0, 0]
-    },
-    {
-      "description": "Scripts",
-      "type": "script",
-      "uuid": "b7c8d9e0-f1a2-43b4-c5d6-e7f8a9b0c1d2",
-      "version": [1, 0, 0],
-      "entry": "scripts/main.js"
     }
   ]
 }
