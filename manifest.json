@@ -1,35 +1,18 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Command Block Blue Furnace - Bloco de Comando com Menu de Comandos",
+    "description": "Command Block Blue Furnace",
     "name": "Command Block Blue Furnace",
-    "uuid": "a1b2c3d4-e5f6-47g8-h9i0-j1k2l3m4n5o6",
+    "uuid": "a1b2c3d4-e5f6-47a8-b9c0-d1e2f3a4b5c6",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 20, 0]
+    "min_engine_version": [1, 19, 0]
   },
   "modules": [
     {
       "description": "Behavior Pack",
       "type": "behavior",
-      "uuid": "f1e2d3c4-b5a6-47g8-h9i0-j1k2l3m4n5o7",
+      "uuid": "f1e2d3c4-b5a6-47a8-b9c0-d1e2f3a4b5c7",
       "version": [1, 0, 0]
-    },
-    {
-      "description": "Scripts Module",
-      "type": "script",
-      "uuid": "b7c8d9e0-f1a2-43b4-c5d6-e7f8a9b0c1d2",
-      "version": [1, 0, 0],
-      "entry": "scripts/main.js"
-    }
-  ],
-  "dependencies": [
-    {
-      "module_name": "@minecraft/server",
-      "version": "1.7.0"
-    },
-    {
-      "module_name": "@minecraft/server-ui",
-      "version": "1.2.0"
     }
   ]
 }
